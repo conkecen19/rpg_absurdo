@@ -10,4 +10,8 @@ body{
     top: 0px;
     left: 1px;
     }
+
+    .titulo1{
+     position: absolute;    
+    }
 }
