@@ -12,6 +12,7 @@ body{
     }
 
     .titulo1{
-     position: absolute;    
+     position: absolute;
+     top: 115;
     }
 }
