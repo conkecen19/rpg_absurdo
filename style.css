@@ -13,7 +13,8 @@ body{
 
     .titulo1{
      position: absolute;
-     top: 115px;
+     top: 125px;
      left: 45%;
+     scale: 3;
     }
 }
