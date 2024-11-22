@@ -24,4 +24,9 @@ body{
      left: 45%;
      scale: 3;
     }
+
+    .AJornada{
+     position: absolute;
+     top: 200px;
+    }
 }
