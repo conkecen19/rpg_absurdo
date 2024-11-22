@@ -28,5 +28,7 @@ body{
     .AJornada{
      position: absolute;
      top: 200px;
+     sacle: 1.4;
+     left: 20px;
     }
 }
